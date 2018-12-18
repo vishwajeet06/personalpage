@@ -1,0 +1,13 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.main-content {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 80px;
+
+}
