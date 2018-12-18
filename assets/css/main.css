@@ -1,13 +1,19 @@
 
 body {
     font-family: 'Raleway', sans-serif;
+    margin: 0;
 }
 
 
 .main-content {
     text-align: center;
     color: white;
-    background-color: black;
+    background-color: #008EFF;
     padding: 80px;
 
+}
+
+.social-icons {
+    font-size: 3em;
+    color: white;
 }
