@@ -33,3 +33,8 @@ img.top {
 .main-content {
     text-align: center;
 }
+
+.exp {
+    text-align: left;
+    padding: 0px 0px 0px 25%;
+}
