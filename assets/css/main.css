@@ -22,11 +22,12 @@ body {
 i {
     color:white;
 }
-img {
-    float: left;
+img.top {
+    /* float: left; */
     border-style: solid;
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
+    
 }
 
 .main-content {
